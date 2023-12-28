@@ -1,7 +1,7 @@
 # Image-Steganography
 
 Image steganography is the process of concealing the data in a image.<br/>
-This project also achieved additional privacy by including the cryptography encryption of the data.
+This project also achieved additional privacy by including the cryptographic encryption of the data.
 
 ## Installation
 
