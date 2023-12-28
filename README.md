@@ -16,6 +16,23 @@ pip install cv2
 pip install types
 ```
 ## Usage
+![image](https://github.com/prasad924/Image-steganography/assets/135614599/1ed0aae1-4511-4122-b0d3-6bc6bf1af4a4)
+<br/><br/>
+
+### Encoding
+![image](https://github.com/prasad924/Image-steganography/assets/135614599/6a342bfe-96e4-4b18-aed2-0f25d0401f1f)
+<br/>
+![image](https://github.com/prasad924/Image-steganography/assets/135614599/ac26f333-682b-4178-b964-cc7d2711d88c)
+<br/>
+![image](https://github.com/prasad924/Image-steganography/assets/135614599/ed443c01-89ae-4639-b8bf-226e6db987a1)
+<br/>
+
+### Decoding
+
+![image](https://github.com/prasad924/Image-steganography/assets/135614599/cbbded70-3131-49fa-bcd1-88e0302b2d9f)
+<br/><br/>
+
+
 
 
 
