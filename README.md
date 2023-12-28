@@ -1,4 +1,4 @@
-# Image-Steganograpgy
+# Image-Steganography
 
 Image steganography is the process of concealing the data in a image.
 
