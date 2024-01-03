@@ -13,9 +13,7 @@ pip install numpy
 ```bash
 pip install opencv-python
 ```
-```bash
-pip install types
-```
+
 ## Usage
 ![image](https://github.com/prasad924/Image-steganography/assets/135614599/1ed0aae1-4511-4122-b0d3-6bc6bf1af4a4)
 <br/><br/>
