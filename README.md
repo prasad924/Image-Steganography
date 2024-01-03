@@ -11,7 +11,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to use the code
 pip install numpy
 ```
 ```bash
-pip install cv2
+pip install opencv-python
 ```
 ```bash
 pip install types
