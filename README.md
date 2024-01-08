@@ -44,7 +44,6 @@ Please make sure to update tests as appropriate.
 
 ## Authors and Acknowledgement
 
--> Reddy Leela Venkata Krishna Prasad <br/>
 -> K. Anusha <br/>
 -> P. Navanitha <br/>
 -> T. Eshwar <br/>
@@ -53,6 +52,7 @@ Please make sure to update tests as appropriate.
 -> A. Sri Ram Teja <br/>
 -> P. Sahruday <br/>
 -> G. Abhishek <br/>
+-> Reddy Leela Venkata Krishna Prasad </br>
 <br/><br/>
 Thank you all for assistance. We would not have finished the project on time if it hadn’t been for your hard work, patience, and agility. You all are fantastic!
 
