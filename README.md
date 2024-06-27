@@ -2,7 +2,7 @@
 
 Image steganography is the process of concealing the data in a image.<br/>
 This project also achieved additional privacy by including the cryptographic encryption of the data.
-
+Consider using PNG due to it's lossless nature!!! 
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to use the code
