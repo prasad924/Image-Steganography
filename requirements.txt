@@ -1,6 +1,2 @@
 numpy==1.21.1
 opencv-python==4.5.3.56
-
-pip install -r requirements.txt
-
-This command will install numpy and opencv-python along with their dependencies, ensuring that your scripts can run successfully
