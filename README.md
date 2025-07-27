@@ -8,10 +8,7 @@ Consider using PNG due to it's lossless nature!!!
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to use the code
 
 ```bash
-pip install numpy
-```
-```bash
-pip install opencv-python
+pip install -r requirements.txt
 ```
 
 ## Usage
