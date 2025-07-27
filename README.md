@@ -5,6 +5,7 @@ This project also achieved additional privacy by including the cryptographic enc
 Consider using PNG due to it's lossless nature!!! 
 ## Installation
 
+Use python version of 3.9 for avoiding the legacy code issues
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to use the code
 
 ```bash
